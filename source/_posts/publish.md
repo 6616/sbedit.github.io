@@ -12,6 +12,7 @@ tags:
 ---
 ## 生成token
 
+## 根目录增加文件`publish.md`
 ## 部署到vercel
 
 ### 一键部署
