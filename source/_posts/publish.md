@@ -65,3 +65,6 @@ deploy:
 ```
 GH_TOKEN  内容等于个人token
 ```
+
+
+CircleCI vs Travis CI vs Jenkins
