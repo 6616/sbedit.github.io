@@ -12,14 +12,14 @@ tags:
 ---
 ## 生成token
 
-## 根目录增加文件`publish.md`
+
 ## 部署到vercel
 
 ### 一键部署
 
 ### 设置忽略版本
 
-git diff --quiet HEAD^ HEAD publish.md
+git diff --quiet HEAD^ HEAD README.md
 
 ## 部署到netlify
 
