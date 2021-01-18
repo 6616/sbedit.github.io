@@ -19,6 +19,5 @@ To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](
 ```shell
 $ hexo init project-name
 ```
-* 
-2021-01-18 09:18:01* 
-2021-01-18 10:01:46
+* 2021-01-18 09:18:01
+* 2021-01-18 10:01:46
