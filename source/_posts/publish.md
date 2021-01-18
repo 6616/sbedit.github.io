@@ -60,7 +60,7 @@ deploy:
   local-dir: public
 ```
 
-### 注册并登陆https://travis-ci.com/dashboard
+### 注册并登陆https://travis-ci.com/dashboard 免费10000点,约等于1000次部署
 
 #### 允许读取所有仓库
 
