@@ -33,6 +33,10 @@ https://sbedit.github.io
 
 ### 建立文件`.travis.yml`
 
+### 切换到分支
+
+部署一次,或者手动创建分支,并将pages切换到`gh-pages`
+
 > 内容
 
 ```
